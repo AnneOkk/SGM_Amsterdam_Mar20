@@ -1,0 +1,16 @@
+base
+rlang
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+foreign
+lubridate
+modi
+haven
+MplusAutomation
