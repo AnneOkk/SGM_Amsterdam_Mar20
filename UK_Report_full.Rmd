@@ -22,6 +22,7 @@ bibliography: UK_Study.bib
 - Insecurity about finding suitable employment [@Koen2012; @Leach2017]
 - Labor market myths [@Ball2018]
 - Career construction theory [@Savickas2005]
+- career planning as a means to deal with career-related worry [@Stringer2011]
 
 ## Career planning [@Gould1979]
 
@@ -38,6 +39,9 @@ bibliography: UK_Study.bib
 - worry affects temporal focus on outcomes [@Worthy2014]
 - task avoidance theory [Ferrari1995]: (Irrational) fears and self-criticism may increase the tendency to avoid tasks
 
+- affect as information: [@Clore2001]
+- worry as a motivator to engage in career planning [@Sweeny2017] 
+
 ## Self-efficacy as a mediator? 
 - Career construction theory [@Savickas2005]: Career-preparatory actions (adapting) as a source of a sense of mastery 
 - Gaining self-efficacy by engaging in career-preparatory behavior [@DelCorso2011]
@@ -47,8 +51,7 @@ bibliography: UK_Study.bib
 
 - Social cognitive career theory [e.g., @Lent1994]: Self-efficacy as a predictor of a person's engagement in career-preparatory behaviors (like career planning [@Chung2002])
 
-
-- Self-efficacy as an antecedent of life satisfaction, positive affect [e.g., @Konstam2015]
+- Bandura: Self-efficacy enahncing positive affect and well-being [@Bandura2000]
 - Self-efficacy decreases career-related worries: For example, self-efficacy diminishes pre-task anxiety [@Stumpf1987]
 
 
